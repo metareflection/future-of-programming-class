@@ -1,8 +1,8 @@
 # Syllabus
  
-CS2520R: Advanced Topics in Programming Languages ...
+CS2520R: Advanced Topics in Programming Languages
 
-This term (Fall 2026): ... Future of Programming ...
+This term (Fall 2026): Future of Programming
 
 Class meeting time: TR 11:15 – 12:30
 
@@ -12,13 +12,22 @@ Course website: [https://future.metareflection.club](https://future.metareflecti
 
 Instructor: [Nada Amin](https://namin.seas.harvard.edu) (<a href="mailto:namin@seas.harvard.edu">namin@seas.harvard.edu</a>)
 
-Teaching Fellow: [Simon Henniger](https://github.com/shenniger) (<a href="mailto:shenniger@g.harvard.edu">shenniger@g.harvard.edu</a>)
+Teaching Fellow: [Simon Henniger](https://henniger.dev) (<a href="mailto:shenniger@g.harvard.edu">shenniger@g.harvard.edu</a>)
 
 ## Course description
 
 The topic for CS2520R Fall 2026 is the Future of Programming.
 
-As a student, you will present a paper of your choice, implement a common warm‑up assignment, and complete a semester‑long final project taking an original idea from design through implementation. By the end of the term, you'll have both the theoretical foundations and hands‑on experience needed to design and implement PL+AI systems.
+In 1843, Ada Lovelace wrote what is today recognized as the first ever computer program. By the 1950s, the corresponding computers had been invented to run programs on, and the first approaches to higher and structured programming emerged, paving the way to today's mass production of programs.
+
+By 1995, programming had reached the mainstream. That's when Steve Jobs said: "everybody should learn to program a computer, because it teaches you how to think".
+
+In early 2025, Claude Code launched, the first LLM-based system that could automated many programming tasks. The same year, Andrej Karpathy coined the term "vibecoding". In 2027, academic researchers reached a consensus that LLM agents had overtaken even the must capable human programmers. By the late 2020s, programming was considered as obselete a business as ice home delivery, and mankind was happy to have finally rid itself of having to deal with all the pesky loops, unit tests and design patterns. Everyone lived happily ever after...  or did they?
+
+This fall, in CS2520r, we work to build the future of programming. To do so, we will undertake an exploration into the intellectual legacy of the art (or is it a craft? a science?) of programming. We will then consider patterns and scenarios of how programming may develop.  Will all human programmers be replaced by machines? Will we continue to teach programming in the age of vibe coding? Will we see human-AI collaboration and how might that look? How can we harden these models against faulty or malicious AI models, and retain (and improve) our trust in computer systems?
+
+This is a discussion-based and project-based class. We do not know either what the future will bring, so let us build it together. We will read and present papers and other kinds of articles. In addition, semi-weekly homework is assigned, which usually takes the shape of technical explorations, as well as an open-ended opinion/vision midterm essay (from which a project proposal can develop). Students give presentations and undertake substantial projects on future programming systems. Despite the seminar approach, this is a highly technical class: we read research papers and we expect every project to come with a functional prototype.
+
 
 ### Teaching Philosophy
 Learning by doing is fun and rewarding.
@@ -27,17 +36,13 @@ Learning by doing is fun and rewarding.
 By the end of the course, the students will be able to use principled programming methods to design and implement systems. Students will practice studying programming language and system papers and artifacts critically, as well as developing their own.
 
 ## Course policies and expectations
-Students are expected to attend and participate in the class meetings twice a week. Students will have to complete some pre-defined assignments. In addition, they are expected to lead a presentation and discussion in meetings on the paper/system/approach of their choice. There will be one meeting per student. If we exhaust the presentation meetings, we will use class time to discuss thematics all together. Each presenting student is expected to post a thread on Ed a few days prior to the meeting, and each other student is expected to answer that thread before the meeting. Finally, students are expected to work early and often on their final projects. They can find times to discuss their topic with the course staff. Ideally but not necessarily, the topic of a student's presentation will be related to their final project. We might also use class time to discuss projects. Projects can be done in group, with each individual making a substantial contributions. Group projects will be expected to be more substantial than solo projects. We expect students to share their work privately with the class or publically on the web.
+Students are expected to attend and participate in the class meetings twice a week. Students will have to complete some homework assignments (roughly semiweekly). In addition, they are expected to lead a presentation on the paper/system/approach/topic of their choice of about 15-20 minutes length (plus time for Q&A as needed). Further, students are expected to complete a midterm essay from which a project proposal can develop (about 4-6 pages). Finally, students are expected to work early and often on their final projects. They can find times to discuss their topic with the course staff. Ideally but not necessarily, the topic of a student's presentation and essay will be related to their final project. We might also use class time to discuss projects. Projects can be done in group, with each individual making a substantial contributions. Group projects will be expected to be more substantial than solo projects. We expect students to share their work privately with the class or publically on the web.
 
 ## Materials and Access
-We seeded suggestions for papers and systems. Students are also welcome to suggest other papers/systems/approaches.
-
-We use a shared private Github repository, where students can send pull requests with their work or a pointer to their publically available work.
-
-We use Ed for discussions and Sciwheel for annotated readings.
+TBD. We use Ed for discussions.
 
 ## Assignments and Grading Procedure
-Feedback will be given on pre-defined assignments, lead meetings, on participation and on final project progress throughout the semester.
+Feedback will be given on pre-defined assignments, lead meetings, the midterm essay, on participation and on final project progress throughout the semester. Contact the TF for more details.
 
 ## Template for paper discussion and presentation
 - What is the key idea of the paper?
