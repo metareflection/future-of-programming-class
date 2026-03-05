@@ -2,230 +2,138 @@
 
 ## Week 1
 
-### Tuesday, September 2
+### Tuesday, September 1
 
 First day of class.
-TF Matthew Retchin lead a discussion on the taxonomy of neurosymbolic programming.
 
-### Thursday, September 4
+### Thursday, September 3
 
-TF Matthew Retchin leads an introductory session.
-
-- _Hybrid computing using a neural
-network with dynamic external memory_ ([PDF](https://gwern.net/doc/reinforcement-learning/model-free/2016-graves.pdf)) by Graves et al. in Nature 2016.
+TBD
 
 ## Week 2
 
-### Tuesday, September 9
+### Tuesday, September 8
 
-[Gabriel Poesia](https://gpoesia.com/), incoming Kempner fellow, will give a guest lecture.
-- (NeurIPS 2024) Minimo: _Learning Formal Mathematics From Intrinsic Motivation_ ([code](https://github.com/gpoesia/minimo), [paper](https://arxiv.org/abs/2407.00695)).
-- (Dafny 2025) _dafny-annotator: AI-Assisted Verification of Dafny Programs_ ([code](https://github.com/metareflection/dafny-annotator), [paper](https://arxiv.org/abs/2411.15143), [blog](https://dafny.org/blog/2025/06/21/dafny-annotator/)).
+TBD
 
-### Thursday, September 11
+### Thursday, September 10
 
-No class.
+TBD
 
 ## Week 3
 
-### Tuesday, September 16
+### Tuesday, September 15
 
-We set the schedule for the course.
+TBD
 
-### Thursday, September 18
+### Thursday, September 17
 
-Prof. Nada Amin discusses her work at the intersection of formal verification and LLMs.
-
-Some links:
-- Relaxed Machines: [namin/relaxed-machines](https://github.com/namin/relaxed-machines)
-- VerMCTS: [namin/llm-verified-with-monte-carlo-tree-search](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)
-- Dafny Sketcher: [namin/dafny-sketcher](https://github.com/namin/dafny-sketcher)
-- dafny-annotator: [metareflection/dafny-annotator](https://github.com/metareflection/dafny-annotator)
-- Software archaeology of Eurisko: [namin/eurisclo](https://github.com/namin/eurisclo)
-- LeanDisco: [namin/LeanDisco](https://github.com/namin/LeanDisco)
-- Holey: [namin/holey](https://github.com/namin/holey)
-- Argument Debugger & Argir: [namin/argument-debugger](https://github.com/namin/argument-debugger) & [namin/argir](https://github.com/namin/argir)
+TBD
 
 ## Week 4
 
-### Tuesday, September 23
+### Tuesday, September 22
 
-Simon leads a session on mathematical reasoning with LLMs.
+TBD
 
-- Reading of the day:
-  - _DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning_ ([Nature'25](https://www.nature.com/articles/s41586-025-09422-z)).
-  - Extra: _DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models_ ([PDF](https://arxiv.org/pdf/2402.03300)).
-- [Reasoning Gym](https://github.com/open-thought/reasoning-gym).
-- [Open Proof Corpus](https://proofcorpus.ai).
+### Thursday, September 24
 
-### Thursday, September 25
-
-Dennis leads a session on constraint decoding, grammar aligned and semantically constrained.
-
-- Reading of the day: _ChopChop: a Programmable Framework for Semantically Constraining the Output of Language Models_ ([paper](https://arxiv.org/abs/2509.00360)).
+TBD
 
 ## Week 5
 
-### Tuesday, September 30
+### Tuesday, September 29
 
-Valerio leads a session on program synthesis and library learning, with a focused reading on _DreamCoder_ ([PLDI'21](https://dl.acm.org/doi/10.1145/3453483.3454080) edition).
+TBD
 
-- _DreamCoder: growing generalizable, interpretable knowledge with wake–sleep Bayesian program learning_
-  - [PLDI'21](https://dl.acm.org/doi/10.1145/3453483.3454080)
-  - [Royal Society](https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0050)
-  - [code](https://github.com/ellisk42/ec)
-- Stitch: _Top-Down Synthesis for Library Learning_
-  - [POPL'23](https://arxiv.org/abs/2211.16605)
-  - [code](https://github.com/mlb2251/stitch)
-  - [docs](https://stitch-bindings.readthedocs.io/en/stable/)
-- _LILO: Learning Interpretable Libraries by Compressing and Documenting Code_
-  - [ICLR'24](https://arxiv.org/abs/2310.19791)
-  - [code](https://github.com/gabegrand/lilo)
-- Application to recovering Chinese characters: _Finding structure in logographic writing with library learning_
-  - [CogSci'24](https://arxiv.org/abs/2405.06906)
-  
-### Thursday, October 2
+### Thursday, October 1
 
-[Paul Krogmeier](https://paulkrog.github.io/), postdoctoral fellow, will give a guest lecture. Some papers:
-- Reading of the day: _Synthesizing DSLs for Few-shot Learning_ (OOPSLA'25) ([PDF](https://paulkrog.github.io/papers/DSLSynth.pdf)).
-- _Synthesizing Axiomatizations using Logic Learning_ (OOPSLA'22) ([PDF](https://paulkrog.github.io/papers/LasOOPSLA22.pdf)).
-- _Languages with Decidable Learning: A Meta-theorem_ (OOPSLA'23) ([PDF](https://paulkrog.github.io/papers/MetaTheorem.pdf)).
-
-Reading guide from Paul:
-- Focus on reading of the day.
-- First, read Sections 1, 2, and 4.
-- Second, read the problem statements in Sections 5 and 6.
-- Rest of the paper is very optional, including the proofs.
-- Read with an eye toward conceptual differences with DreamCoder and library learning
-- Paul will talk about "Axiom synthesis" and "Languages with...", but they can be skimmed.
+TBD
 
 ## Week 6
 
-### Tuesday, October 7
+### Tuesday, October 6
 
-Mike leads a session on automated theorem proving.
+TBD
 
-- Reading of the Day: _Reviving DSP for Advanced Theorem Proving in the Era of Reasoning Models_ ([paper](https://arxiv.org/abs/2506.11487))
+### Thursday, October 8
 
-- Extra: _Proving Theorems Recursively_ ([paper](https://neurips.cc/virtual/2024/poster/93034), [alt](https://arxiv.org/abs/2405.14414))
-
-### Thursday, October 9
-
-Jeremy leads a session on programming prompts.
-
-- _Prompting Is Programming: A Query Language for Large Language Models_ (PLDI'23) ([paper](https://dl.acm.org/doi/abs/10.1145/3591300)).
+TBD
 
 ## Week 7
 
-### Tuesday, October 14
+### Tuesday, October 13
 
-Richael leads a session on jailbreaking and particular solutions involving PL+AI.
+TBD
 
-- Reading of the day: _R2-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning_ ([paper](https://arxiv.org/abs/2407.05557)).
-- Optional reading: _Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming_ ([paper](https://arxiv.org/abs/2501.18837))
+### Thursday, October 15 (Assignment 1 Due)
 
-### Thursday, October 16 (Assignment 1 Due)
-
-[Dat Nguyen Thanh](https://github.com/datvo06), postdoctoral fellow, will give a guest lecture on prompt optimization and tool orchestration.
-
-- Reading of the day: _GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning_ ([paper](https://arxiv.org/abs/2507.19457)).
-- Extra: _Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs_ ([paper](https://arxiv.org/abs/2406.11695)).
-- Code: [DSPy](https://dspy.ai/).
+TBD
 
 ## Week 8
 
-### Tuesday, October 21
+### Tuesday, October 20
 
-Milligan leads a session on evaluating "intelligence".
+TBD
 
-- _On the Measure of Intelligence_ ([paper](https://arxiv.org/abs/1911.01547)). See also [ARC Prize](https://arcprize.org/).
-- _Sudoku-Bench: Evaluating creative reasoning with Sudoku variants_ ([paper](https://arxiv.org/abs/2505.16135)).
+### Thursday, October 22
 
-### Thursday, October 23
-
-Suhwan leads a session on neural causal modeling.
-
-- [Neural Algorithmic Reasoning with Causal Regularisation](https://proceedings.mlr.press/v202/bevilacqua23a).
+TBD
 
 ## Week 9
 
-### Tuesday, October 28 (Project Proposals Due)
+### Tuesday, October 27 (Project Proposals Due)
 
-Zekai leads a session focusing on _Statically Contextualizing Large Language Models with Typed Holes_ ([OOPSLA'24](https://dl.acm.org/doi/10.1145/3689728)).
+TBD
 
-### Thursday, October 30
+### Thursday, October 29
 
-Discussion on project proposals.
+TBD
 
 ## Week 10
 
-### Tuesday, November 4
+### Tuesday, November 3
 
-Jeffrey leads a session focusing on _SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement_ (ICRL'25 [paper](https://arxiv.org/abs/2410.20285)).
+TBD
 
-Optional readings:
-- _SWE-bench: Can Language Models Resolve Real-World GitHub Issues?_ (ICLR'24 [paper](https://arxiv.org/abs/2310.06770))
-- _SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering_ (NeurIPS'24 [paper](https://arxiv.org/abs/2405.15793))
+### Thursday, November 5
 
-### Thursday, November 6
-
-Arya leads a session on using DSPy for his research, _SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization_ ([paper](https://arxiv.org/abs/2508.20258)).
+TBD
 
 ## Week 11
 
-### Tuesday, November 11
+### Tuesday, November 10
 
-Theo leads on AlphaGeometry ([blog](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/), [paper](https://www.nature.com/articles/s41586-023-06747-5)) and AlphaGeometry 2 ([paper](https://arxiv.org/pdf/2502.03544)), while also discussing _RLSF: Fine-tuning LLMs via Symbolic Feedback_ ([PDF](https://arxiv.org/pdf/2405.16661)).
+TBD
 
-### Thursday, November 13
+### Thursday, November 12
 
-Each student briefly discusses a library/software artifact that they plan to use or that inspires them.
-
-Students can also present their ongoing projects.
+TBD
 
 ## Week 12
 
 ### Student Presentations of their Ongoing Projects
 
-_Each student has **10 minutes** to pitch their project and get feedback.
-The pitch should motivate, describe and situate the project and outline a plan for the rest of semester. What challenges do you anticipate? What milestones do you hope to achieve? How will you evaluate success? Feel free to structure your pitch to maximize feedback from the class._
+### Tuesday, November 17
 
-### Tuesday, November 18
+TBD
 
-We continue with student presentations of their ongoing projects.
+### Thursday, November 19
 
-1. Mike
-2. Richael
-3. Zekai
-4. Suhwan
-5. Milligan
-
-### Thursday, November 20
-
-We continue with student presentations of their ongoing projects.
-
-1. Valerio
-2. Jeremy
-3. Arya/Jeffrey
-4. Dennis
+TBD
 
 ## Week 13
 
-### Tuesday, November 25
+### Tuesday, November 24
 
-Remaining project presentations and project workout.
+TBD
 
-1. Simon
-2. Theo
-
-### Thursday, November 27
+### Thursday, November 26
 
 Thanksgiving.
 
 ## Week 14
 
-### Tuesday, December 2
+### Tuesday, December 1
 
 Last day of class.
-
-TF Matthew Retchin presents his research.

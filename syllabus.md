@@ -2,25 +2,23 @@
  
 CS2520R: Advanced Topics in Programming Languages ...
 
-This term (Fall 2025): ... Neurosymbolic Programming ...
+This term (Fall 2026): ... Future of Programming ...
 
 Class meeting time: TR 11:15 – 12:30
 
-Class meeting room: SEC 1.307
+Class meeting room: TBD
 
-Course website: [https://neurosymbolic.metareflection.club](https://neurosymbolic.metareflection.club)
+Course website: [https://future.metareflection.club](https://future.metareflection.club)
 
 Instructor: [Nada Amin](https://namin.seas.harvard.edu) (<a href="mailto:namin@seas.harvard.edu">namin@seas.harvard.edu</a>)
 
-Teaching Fellow: [Matthew Retchin](https://mhr.ai) (<a href="mailto:mretchin@g.harvard.edu">mretchin@g.harvard.edu</a>)
+Teaching Fellow: [Simon Henniger](https://github.com/shenniger) (<a href="mailto:shenniger@g.harvard.edu">shenniger@g.harvard.edu</a>)
 
 ## Course description
 
-The topic for CS2520R Fall 2025 is Neurosymbolic Programming. Large language models have had remarkable performance among a variety of tasks, but when applied to the synthesis and evaluation of programs and proofs, these models often generalize poorly beyond their training distribution, violate syntactic or semantic constraints, and produce outputs that cannot be verified. In contrast, symbolic AI can easily reason about symbolic abstractions, but it has problems with brittleness and learning at scale. To bridge this gap, this course examines how hybrid systems combining both neural and symbolic components can learn to synthesize and evaluate formal logic proofs and programs, solve constraint satisfaction problems, and enforce syntactic and semantic guarantees ranging from strict invariants to probabilistic constraints.
+The topic for CS2520R Fall 2026 is the Future of Programming.
 
-We will study neurosymbolic systems with applications that include [theorem proving](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/), [program synthesis](https://github.com/namin/llm-verified-with-monte-carlo-tree-search), [structured language generation](https://github.com/dottxt-ai/outlines), [visuolinguistic reasoning](https://www.scallop-lang.org/), and [planning and constraint satisfaction problem solving](https://energy-based-model.github.io/ired/). These case studies will ground foundational questions: What inductive biases support symbolic generalization? How can discrete symbolic structures interface with continuous neural representations without sacrificing formal correctness? How can neurosymbolic models advance scientific and mathematical discovery?
-
-As a student, you will present a neurosymbolic paper of your choice, implement a common warm‑up assignment, and complete a semester‑long final project taking an original idea from design through implementation. By the end of the term, you'll have both the theoretical foundations and hands‑on experience needed to design and implement AI systems that formally reason with rigor and flexibility.
+As a student, you will present a paper of your choice, implement a common warm‑up assignment, and complete a semester‑long final project taking an original idea from design through implementation. By the end of the term, you'll have both the theoretical foundations and hands‑on experience needed to design and implement PL+AI systems.
 
 ### Teaching Philosophy
 Learning by doing is fun and rewarding.
