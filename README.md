@@ -1,5 +1,5 @@
 # Advanced Topics in Programming Languages
-CS252R Advanced Topics in Programming Languages (Fall 2025)
+CS252R Advanced Topics in Programming Languages (Fall 2026)
 
 ## Running website locally
 
