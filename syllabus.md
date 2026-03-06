@@ -34,7 +34,7 @@ We will likely discuss these topics:
 - Programming is ultimately about expressing our intent to a computer and codifying our collaboration with it. How will we do so in the future? What language, which interface will we use?
 - If AI writes all the code, how do we ensure it's correct? Which guarantees will ensure human autonomy and agency?
 - If programming gets arbitrarily cheap and easy, will we see a lot more individualized software? What are the next domains of software?
-- Remember Steve Jobs: programming teaches you how to think. Will kids still learn programming? In 30 years, how many people will speak at least one traditional programming language? How many will understand C in 30 years? What are the risks of losing knowledge about how computers and code work?
+- Is there still a value in learning to code? Remember Steve Jobs: programming teaches you how to think. Will kids still learn programming? In 30 years, how many people will speak at least one traditional programming language? How many will understand C in 30 years? What are the risks of losing knowledge about how computers and code work?
 - Programming was hailed as an art form. How much of that will be left?
 
 We are more than open to topic suggestions!
