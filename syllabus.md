@@ -12,7 +12,7 @@ Course website: [https://future.metareflection.club](https://future.metareflecti
 
 Instructor: [Nada Amin](https://namin.seas.harvard.edu) (<a href="mailto:namin@seas.harvard.edu">namin@seas.harvard.edu</a>)
 
-Teaching Fellow: [Simon Henniger](https://henniger.dev) (<a href="mailto:shenniger@fas.harvard.edu">shenniger@g.harvard.edu</a>)
+Teaching Fellow: [Simon Henniger](https://henniger.dev) (<a href="mailto:shenniger@fas.harvard.edu">shenniger@fas.harvard.edu</a>)
 
 ## Course description
 
