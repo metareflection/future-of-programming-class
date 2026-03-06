@@ -1,6 +1,6 @@
 # Future of Programming
 
-The topic for CS2520R Fall 2025 is the Future of Programming.
+The topic for CS2520R Fall 2026 is the Future of Programming.
 
 In 1843, Ada Lovelace wrote what is today recognized as the first ever computer program. By the 1950s, the corresponding computers had been invented to run programs on, and the first approaches to higher and structured programming emerged, paving the way to today's mass production of programs.
 
