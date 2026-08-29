@@ -4,13 +4,9 @@ TBD
 
 ## Week 1
 
-### Tuesday, September 1
-
-First day of class.
-
 ### Thursday, September 3
 
-TBD
+First day of class.
 
 ## Week 2
 
