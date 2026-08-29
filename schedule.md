@@ -50,7 +50,7 @@ TBD
 
 ## Week 6
 
-### Tuesday, October 6
+### Tuesday, October 6 (Assignment 1 Due)
 
 TBD
 
@@ -64,7 +64,7 @@ TBD
 
 TBD
 
-### Thursday, October 15 (Assignment 1 Due)
+### Thursday, October 15 
 
 TBD
 
