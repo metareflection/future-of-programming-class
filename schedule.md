@@ -12,11 +12,12 @@ First day of class.
 
 ### Tuesday, September 8
 
-TBD
+Reading: Peter Naur (1985), _Programming as Theory Building_ ([PDF](https://pages.cs.wisc.edu/~remzi/Naur.pdf))
 
 ### Thursday, September 10
 
-TBD
+Reading: Alex Gu, Naman Jain, Wen-Ding Li, Manish Shetty, Yijia Shao, Ziyang Li, Diyi Yang, Kevin Ellis, Koushik Sen, Armando Solar-Lezama
+ (ICML 2025), _Challenges and Paths Towards AI for Software Engineering_ ([PDF](https://minimario.github.io/papers/challenges_ai4se.pdf))
 
 ## Week 3
 
