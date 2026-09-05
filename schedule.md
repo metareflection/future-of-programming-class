@@ -16,8 +16,7 @@ Reading: Peter Naur (1985), _Programming as Theory Building_ ([PDF](https://page
 
 ### Thursday, September 10
 
-Reading: Alex Gu, Naman Jain, Wen-Ding Li, Manish Shetty, Yijia Shao, Ziyang Li, Diyi Yang, Kevin Ellis, Koushik Sen, Armando Solar-Lezama
- (ICML 2025), _Challenges and Paths Towards AI for Software Engineering_ ([PDF](https://minimario.github.io/papers/challenges_ai4se.pdf))
+Reading: look at the _Compiling to Neurons_ papers of [Joey Velez-Ginorio](https://www.engineering.upenn.edu/~joeyv/), who will join as a guest. In particular, see the POPL'26 and PLDI'26 papers with Nada Amin, Konrad Kording, and Steve Zdancewic.
 
 ## Week 3
 
@@ -27,7 +26,10 @@ TBD
 
 ### Thursday, September 17
 
-TBD
+Reading: Alex Gu, Naman Jain, Wen-Ding Li, Manish Shetty, Yijia Shao, Ziyang Li, Diyi Yang, Kevin Ellis, Koushik Sen, Armando Solar-Lezama
+ (ICML 2025), _Challenges and Paths Towards AI for Software Engineering_ ([PDF](https://minimario.github.io/papers/challenges_ai4se.pdf))
+
+ Alex Gu will join as a guest.
 
 ## Week 4
 
