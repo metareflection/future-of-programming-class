@@ -22,7 +22,7 @@ Reading: look at the _Compiling to Neurons_ papers of [Joey Velez-Ginorio](https
 
 ### Tuesday, September 15
 
-TBD
+Reading: Sverrir Thorgeirsson, Theo B. Weidmann, Zhendong Su (CHI'26), _Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency_ ([PDF](https://arxiv.org/pdf/2603.14133))
 
 ### Thursday, September 17
 
