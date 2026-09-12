@@ -24,6 +24,8 @@ Reading: look at the _Compiling to Neurons_ papers of [Joey Velez-Ginorio](https
 
 Reading: Sverrir Thorgeirsson, Theo B. Weidmann, Zhendong Su (CHI'26), _Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency_ ([PDF](https://arxiv.org/pdf/2603.14133))
 
+Secondary reading: Kathi Fisler, Shriram Krishnamurthi, Michael Littman (CACM'26 to appear), _Teaching Novice Computing and Programming in the Agentic AI Era_, ([link](https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/))
+
 ### Thursday, September 17
 
 Reading: Alex Gu, Naman Jain, Wen-Ding Li, Manish Shetty, Yijia Shao, Ziyang Li, Diyi Yang, Kevin Ellis, Koushik Sen, Armando Solar-Lezama
