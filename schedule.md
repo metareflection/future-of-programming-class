@@ -37,7 +37,9 @@ Reading: Alex Gu, Naman Jain, Wen-Ding Li, Manish Shetty, Yijia Shao, Ziyang Li,
 
 ### Tuesday, September 22
 
-TBD
+Reading: Gan Shen, Shun Kashiwa, Lindsey Kuper (ICFP 2024). HasChor: Functional Choreographic Programming for All (Functional Pearl) ([doi](https://dl.acm.org/doi/10.1145/3607849))
+
+PhD student Cameron Wong will talk about his experience implementing choreographic libraries in Lean.
 
 ### Thursday, September 24
 
