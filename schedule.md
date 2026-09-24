@@ -59,7 +59,9 @@ Reading 2 (for proof assistants like Lean or Rocq): Philip Wadler (CACM 2015). _
 
 ### Thursday, October 1
 
-TBD
+Reading: Bowers et al. (POPL 2023). _Top-Down Synthesis for Library Learning_ ([doi](https://dl.acm.org/doi/10.1145/3571234))
+
+Maddy Bowers will be presenting and discussing her work related to library learning.
 
 ## Week 6
 
