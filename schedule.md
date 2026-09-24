@@ -43,7 +43,7 @@ PhD student Cameron Wong will talk about his experience implementing choreograph
 
 ### Thursday, September 24
 
-TBD
+Reading: Simon Henniger, Stephen Chong, Nada Amin (2026). _Djinnlang: Higher-Level Programming by Unambiguous Specification with an LLM in the Compiler_ ([link](https://arxiv.org/abs/2609.23954))
 
 ## Week 5
 
