@@ -49,7 +49,13 @@ Reading: Simon Henniger, Stephen Chong, Nada Amin (2026). _Djinnlang: Higher-Lev
 
 ### Tuesday, September 29
 
-TBD
+Class on formal verification.
+
+Refresher: [CS1520](https://groups.seas.harvard.edu/courses/cs152/2026sp/schedule.html): Axiomatic Semantics and Hoare Logic (Lecture 19) and Curry-Howard correspondence (Lecture 15).
+
+Reading 1 (for auto-active verifiers like Dafny): C. A. R. Hoare (CACM 1969). _An axiomatic basis for computer programming_ ([doi](https://dl.acm.org/doi/10.1145/363235.363259)).
+
+Reading 2 (for proof assistants like Lean or Rocq): Philip Wadler (CACM 2015). _Propositions as Types_ ([doi](https://dl.acm.org/doi/10.1145/2699407))
 
 ### Thursday, October 1
 
