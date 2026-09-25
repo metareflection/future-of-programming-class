@@ -87,7 +87,9 @@ TBD
 
 ### Tuesday, October 20
 
-TBD
+Reading: Celeste Barnaby, Danny Ding, Osbert Bastani, Isil Dillig (PLDI 2026). _Choose, Don't Label: Multiple-Choice Query Synthesis for Program Disambiguation_ ([PDF](https://arxiv.org/pdf/2604.08792)).
+
+Celeste will join us as a guest for the session.
 
 ### Thursday, October 22
 
