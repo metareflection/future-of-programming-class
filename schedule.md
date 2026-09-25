@@ -67,11 +67,11 @@ Maddy Bowers will be presenting and discussing her work related to library learn
 
 ### Tuesday, October 6 (Assignment 1 Due)
 
-TBD
+Discussion of assignment.
 
 ### Thursday, October 8
 
-TBD
+Discussion of assignment.
 
 ## Week 7
 
