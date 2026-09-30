@@ -59,7 +59,7 @@ Reading 2 (for proof assistants like Lean or Rocq): Philip Wadler (CACM 2015). _
 
 ### Thursday, October 1
 
-Reading: Bowers et al. (POPL 2023). _Top-Down Synthesis for Library Learning_ ([doi](https://dl.acm.org/doi/10.1145/3571234))
+Reading: Bowers et al. (POPL 2023). _Top-Down Synthesis for Library Learning_ ([doi](https://dl.acm.org/doi/10.1145/3571234)). Also see _E-Stitch: Top-Down Library Learning for E-Graphs_ (2026) ([link](https://pldi26.sigplan.org/details/egraphs-2026-papers/7/E-Stitch-Top-Down-Library-Learning-for-E-Graphs)).
 
 Maddy Bowers will be presenting and discussing her work related to library learning.
 
