@@ -73,9 +73,9 @@ Discussion of assignment.
 
 ## Week 7
 
-### Tuesday, October 13
+### tuesday, october 13
 
-TBD
+Student presentations (see schedule on Ed).
 
 ### Thursday, October 15 
 
@@ -93,41 +93,39 @@ Celeste will join us as a guest for the session.
 
 ### Thursday, October 22
 
-TBD
+Student presentations (see schedule on Ed).
 
 ## Week 9
 
 ### Tuesday, October 27 (Project Proposals Due)
 
-TBD
+Student presentations (see schedule on Ed).
 
 ### Thursday, October 29
 
-TBD
+Student presentations (see schedule on Ed).
 
 ## Week 10
 
 ### Tuesday, November 3
 
-TBD
+Student presentations (see schedule on Ed).
 
 ### Thursday, November 5
 
-TBD
+Student presentations (see schedule on Ed).
 
 ## Week 11
 
 ### Tuesday, November 10
 
-TBD
+Student presentations (see schedule on Ed).
 
 ### Thursday, November 12
 
-TBD
+Student presentations (see schedule on Ed).
 
 ## Week 12
-
-### Student Presentations of their Ongoing Projects
 
 ### Tuesday, November 17
 
@@ -141,14 +139,14 @@ TBD
 
 ### Tuesday, November 24
 
-TBD
+Final project presentations (schedule to be set shortly).
 
 ### Thursday, November 26
 
-Thanksgiving.
+Final project presentations (schedule to be set shortly).
 
 ## Week 14
 
 ### Tuesday, December 1
 
-Last day of class.
+Final project presentations (schedule to be set shortly).
