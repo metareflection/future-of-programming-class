@@ -1,6 +1,6 @@
 # Schedule
 
-TBD
+Please regularly check Ed for deadlines and assignments; the Ed schedule is authoritative.
 
 ## Week 1
 
@@ -97,7 +97,7 @@ Student presentations (see schedule on Ed).
 
 ## Week 9
 
-### Tuesday, October 27 (Project Proposals Due)
+### Tuesday, October 27
 
 Student presentations (see schedule on Ed).
 
