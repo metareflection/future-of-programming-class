@@ -129,7 +129,7 @@ Student presentations (see schedule on Ed).
 
 ### Tuesday, November 17
 
-TBD
+[Kartik Chandra](https://cs.stanford.edu/~kach/) (MIT) presents works at the intersection of cognitive sciences, AI, and programming languages, around [memo](https://github.com/kach/memo), a probabilistic programming language for metacognitive modeling.
 
 ### Thursday, November 19
 
