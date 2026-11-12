@@ -133,7 +133,7 @@ Student presentations (see schedule on Ed).
 
 ### Thursday, November 19
 
-TBD
+Prof. Nada Amin and TF Simon Henniger wrap up class with some final musings and discussions.
 
 ## Week 13
 
