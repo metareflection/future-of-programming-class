@@ -139,14 +139,18 @@ Prof. Nada Amin and TF Simon Henniger wrap up class with some final musings and 
 
 ### Tuesday, November 24
 
-Final project presentations (schedule to be set shortly).
+Final project presentations (see schedule on Ed).
 
 ### Thursday, November 26
 
-Final project presentations (schedule to be set shortly).
+No class (holiday).
 
 ## Week 14
 
 ### Tuesday, December 1
 
-Final project presentations (schedule to be set shortly).
+Final project presentations (see schedule on Ed).
+
+### Tuesday, December 3
+
+Final project presentations (see schedule on Ed).
