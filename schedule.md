@@ -151,6 +151,6 @@ No class (holiday).
 
 Final project presentations (see schedule on Ed).
 
-### Tuesday, December 3
+### Thursday, December 3
 
 Final project presentations (see schedule on Ed).
